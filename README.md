@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi there guys. This is just a hello-world readme file.
